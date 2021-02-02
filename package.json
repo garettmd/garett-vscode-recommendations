@@ -1,0 +1,51 @@
+{
+    "name": "garett-recommendations",
+    "displayName": "Garett's Synchronoss Pack",
+    "description": "Garett's recommended extensions for Synchronoss folks",
+    "publisher": "sncr",
+    "version": "1.1.1",
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/garettmd/garett-vscode-recommendations"
+    },
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "synchronoss",
+        "sncr",
+        "SNCR"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "atlassian.atlascode",
+        "bbenoist.vagrant",
+        "chrmarti.ssh",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "coolbear.systemd-unit-file",
+        "DavidAnson.vscode-markdownlint",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "foxundermoon.shell-format",
+        "mads-hartmann.bash-ide-vscode",
+        "hashicorp.terraform",
+        "mechatroner.rainbow-csv",
+        "minhthai.vscode-todo-parser",
+        "ms-python.python",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vsliveshare.vsliveshare",
+        "redhat.vscode-yaml",
+        "sadesyllas.vscode-workspace-switcher",
+        "timonwong.shellcheck",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vscode-icons-team.vscode-icons",
+        "vscoss.vscode-ansible",
+        "wholroyd.jinja",
+        "ms-kubernetes-tools.vscode-kubernetes-tools"
+    ]
+}
